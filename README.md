@@ -1,0 +1,2 @@
+# MailshotMakerApps
+Mailshot Maker Application
